@@ -92,8 +92,13 @@ The following Publications have plenty of projets to start with.
 
 ## Project Ideas
 
+1. Portfolio Website
+2. Case Studies and Projects Web Presence
+3. Raspberry Pi Guitar FX Pedal
+4. Raspberry Pi Amplifier Simulation/Capture
+5. Digital Signal Processing electronics simulation
+6. Robotics (mapping and navigation)
 
-## Continuing Education
 
 
 ## Contact Information
