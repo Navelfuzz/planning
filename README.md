@@ -33,8 +33,9 @@
 3. Evaluate GI Bill usage (If VR&E is done)
 4. BSCS Online programs (Not Eligible for ODU anymore)
 
-[WGU Analysis](WGU.md)
-[Certifications Information](Certifications.md)
+[WGU Analysis](/WGU/WGU.md)
+[Certifications Information](/WGU/Certifications.md)
+[WGU Estimations](/WGU/estimatedWGU.md)
 
 ## Coursework & Textbook Projects
 
