@@ -98,7 +98,10 @@ The following Publications have plenty of projets to start with.
 4. Raspberry Pi Amplifier Simulation/Capture
 5. Digital Signal Processing electronics simulation
 6. Robotics (mapping and navigation)
-
+7. Python in Excel exploration and education
+8. Teaching Videos and/or guides, case studies
+9. Teaching/Studies that explore the usage of various CS languages and methods within well known technology
+10. Computer Science Calculator application (Visual Analysis & Animations)
 
 
 ## Contact Information
