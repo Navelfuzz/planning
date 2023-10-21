@@ -20,36 +20,51 @@ The cost of Study.com seems to be a monthly subscription cost, $235 per month. 3
 ### Certifications
 
 *The alternatives to Study.com credits*
-Data Management - Applications
-    - CIW Database Design Specialist (1D0- 541), 
-    - CIW Web Development Professional Certification, 
-    - Microsoft Certified: Azure Database Administrator Associate 
-    - Oracle 1Z0-006 certification.
-Advanced Data Management
-    - Oracle PL/SQL Developer Certified Associate 1z0-071 
-    - Microsoft Certified: Azure Database Administrator Associate.
-Fundamentals of Information Security 
-    - EC-Council - CEH, CCISO, ECSS; 
-    - CompTIA - CASP+; 
-    - CompTIA Security+; 
-    - ISC2 - CISSP or Associate of ISC (2) with CISSP Exam Passed; 
-    - ISACA - CISA, CISM, CRISC, GIAC - GISF, GCED, GSEC.
-IT Leadership Foundations
-    - PMI: CAPM or PMP.
-Software Engineering
-    - Scrum.org Professional Scrum Master (PSM), 
-    - Scrum Alliance: Certified Scrum Master (CSM), 
-    - PMI: Agile Certified Practitioner (ACP).
 
-Java Fundamentals:: Oracle Certified Associate: Java SE 8 Programmer Exam 1Z0-808.
+Data Management - Applications
+
+- CIW Database Design Specialist (1D0- 541), 
+- CIW Web Development Professional Certification, 
+- Microsoft Certified: Azure Database Administrator Associate 
+- Oracle 1Z0-006 certification.
+
+Advanced Data Management
+
+- Oracle PL/SQL Developer Certified Associate 1z0-071 
+- Microsoft Certified: Azure Database Administrator Associate.
+
+Fundamentals of Information Security 
+
+- EC-Council - CEH, CCISO, ECSS; 
+- CompTIA - CASP+; 
+- CompTIA Security+; 
+- ISC2 - CISSP or Associate of ISC (2) with CISSP Exam Passed; 
+- ISACA - CISA, CISM, CRISC, GIAC - GISF, GCED, GSEC.
+
+IT Leadership Foundations
+
+- PMI: CAPM or PMP.
+
+Software Engineering
+
+- Scrum.org Professional Scrum Master (PSM), 
+- Scrum Alliance: Certified Scrum Master (CSM), 
+- PMI: Agile Certified Practitioner (ACP).
+
+Java Fundamentals:: Oracle Certified Associate: Java SE 8 Programmer Exam 1Z0-808
+
 Java Frameworks:: Oracle Certified Professional Java (SE 7 or 8) Programmer.
+
 Linux Foundations::  Any of the following certifications:
-    - CompTIA: Linux+ 
-    - LPI: Linux Essentials, LPIC- 1, LPIC-2, or LPIC – 3 
-    - Linux Foundation: Certified System Administrator (LFCS) 
-    - Red Hat: RHCSA, RHCE or RHCA
-    - Oracle Certified Professional Oracle Linux 8 System Administrator (Exam 1Z0-106).
+
+- CompTIA: Linux+ 
+- LPI: Linux Essentials, LPIC- 1, LPIC-2, or LPIC – 3 
+- Linux Foundation: Certified System Administrator (LFCS) 
+- Red Hat: RHCSA, RHCE or RHCA
+- Oracle Certified Professional Oracle Linux 8 System Administrator (Exam 1Z0-106).
+
 Back-End Programming:: CFSEBE 202303.1: Certificate for Full Stack Engineer Back End Developer.
+
 Advanced Java:: Oracle Certified Professional Java (SE 7 or 8) Programmer.
 
 #### Pricing
@@ -65,22 +80,44 @@ CIW:
 1. 1D0-541 CIW Database Design Specialist: $150
 2. CIW Web Development Professional Certification
     3 Prereq Certs: JavaScript Specialist, Database Design Specialist, Advanced HTML5 & CSS3 Specialist $150 each
-3. 
 
 Microsoft: 
-
+1. DP-300 Azure Database Administrator Associate: $165
 
 CompTIA:
+1. Security+: $392
+2. CASP+: $494
+3. Linux+: $358
 
 Scrum:
+1. PSM (I, II, III): ~$1100
 
 PMI:
+1. CAPM: $300
+2. PMP: $555
+3. ACP: $495
+
+SCRUM Alliance:
+1. CSM: $400+
 
 LPI:
+1. LPIC-1 (two courses) 101 & 102: $400 (200 ea)
+2. LPIC-2 (same as above): $400
+3. LPIC-3 (4 courses 200 ea): $800
 
 Red Hat:
+1. RHCSA: $400 
+2. RHCE:  $400
+3. RHCA: priors and $2000+ totals
 
 Linux Foundation:
+1. LFCS: $375
 
+ISC2/ISACA:
+1. CISSP: $749
+    (Costs of other certs comperable)
 
-EC-Council
+EC-Council:
+1. C|EH : $1000+
+2. CCISO: $600 (Prerequisites/Experience)
+3. ECSS: $250
