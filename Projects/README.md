@@ -1,0 +1,6 @@
+# Projects
+
+## Ideas
+
+### Financial Exploration
+
