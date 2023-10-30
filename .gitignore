@@ -1,1 +1,3 @@
-*WGU
+# ignore ALL files in ANY directory named WGU
+WGU/**/*
+```
