@@ -31,11 +31,7 @@
 1. Determine Schools that accept TCC ASCS without much redundancy
 2. Contact VR&E Case Manager
 3. Evaluate GI Bill usage (If VR&E is done)
-4. BSCS Online programs (Not Eligible for ODU anymore)
-
-[WGU Analysis](/WGU/WGU.md)
-[Certifications Information](/WGU/Certifications.md)
-[WGU Estimations](/WGU/estimatedWGU.md)
+4. BSCS Online programs 
 
 ## Coursework & Textbook Projects
 
